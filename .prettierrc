@@ -1,0 +1,8 @@
+{
+  "tabWidth": 2,
+  "useTabs": true,
+  "parser": "typescript",
+  "semi": true,
+  "arrowParens": "always",
+  "printWidth": 120
+}
